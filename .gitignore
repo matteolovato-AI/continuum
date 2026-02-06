@@ -1,0 +1,18 @@
+# --- python & variabili ambiente ---
+__pycache__
+*.pyc
+venv/
+.env
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Dataset ---
+
+# --- Pesi dei modelli ---
+*.pt
+*.h5
+
+# --- IDE ---
+.vscode
