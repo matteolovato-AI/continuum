@@ -6,6 +6,7 @@ Benvenuti nella repository del progetto! Per mantenere il codice pulito e funzio
 1. `python3 -m venv venv`
 2. `source venv/bin/activate` (Mac/Linux) o `venv\Scripts\activate` (Windows)
 3. `pip install -r requirements.txt`
+4. `git config --global pull.rebase true`
 
 ## 🚀 Come contribuire (Git Workflow)
 Il branch `main` è protetto. Segui questi passaggi per ogni modifica:
