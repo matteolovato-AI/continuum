@@ -1,6 +1,5 @@
-ultralytics
-torch
-torchvision
 opencv-python
-pandas
 numpy
+pandas
+flask
+requests
