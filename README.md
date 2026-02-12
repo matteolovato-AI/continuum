@@ -14,8 +14,9 @@ Il branch `main` è protetto. Segui questi passaggi per ogni modifica:
 1. **Aggiorna il locale:** `git pull origin main`
 2. **Crea un branch:** `git checkout -b feat/nome-tua-funzione`
 3. **Lavora e salva:** `git commit -am "Descrizione di cosa hai fatto"`
-4. **Invia il branch:** `git push origin feat/nome-tua-funzione`
-5. **Apri una Pull Request:** Vai su GitHub e clicca su "Compare & pull request".
+4. **Esegue il rebase:** `git pull`
+5. **Invia il branch:** `git push origin feat/nome-tua-funzione`
+6. **Apri una Pull Request:** Vai su GitHub e clicca su "Compare & pull request".
 
 ## 📂 Struttura Cartelle
 - `/ai_service`: Codice inferenza e Docker
